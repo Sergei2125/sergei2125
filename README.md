@@ -1,6 +1,8 @@
 ![Header](https://github.com/Sergei2125/sergei2125/blob/main/assets/U1c.gif)
 
-[<img align='center' alt='gif' src="https://github.com/Sergei2125/sergei2125/blob/main/assets/U1c.gif" />][gif]
+<div align='center'>
+    <img  alt='gif' src="https://github.com/Sergei2125/sergei2125/blob/main/assets/U1c.gif" />
+</div>
 
 ### Hi there 👋
 
