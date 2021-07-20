@@ -1,4 +1,5 @@
 <div align='center'>
+    <img src="https://github.com/Sergei2125/sergei2125/blob/main/assets/hello.jpg" alt='hello'>
     <img  alt='gif' src="https://github.com/Sergei2125/sergei2125/blob/main/assets/U1c.gif" />
 </div>
 
