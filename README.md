@@ -17,7 +17,7 @@
 ***
 
 #### My main project in React this is Pokemon store:
->https://github.com/Sergei2125/Chueshkov_React_Diplom
+https://github.com/Sergei2125/Chueshkov_React_Diplom
 
 ***
 
