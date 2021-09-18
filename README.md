@@ -15,4 +15,4 @@
 https://github.com/Sergei2125/Chueshkov_React_Diplom
 
 
-### My portfolio [Sergei2125.github.io](Sergei2125.github.io)
+### My portfolio [Sergei2125.github.io](http://Sergei2125.github.io)
