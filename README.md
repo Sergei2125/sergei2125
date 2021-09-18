@@ -11,5 +11,5 @@
 ![javaScript](https://img.shields.io/badge/-javaScript-990033?style=for-the-badge&logo=javaScript)
 ![REACT](https://img.shields.io/badge/-REACT-006600?style=for-the-badge&logo=react)
 
-# My main project in React. Pokemon store:
+### My main project in React. Pokemon store:
 https://github.com/Sergei2125/Chueshkov_React_Diplom
