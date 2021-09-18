@@ -12,8 +12,8 @@
 ![REACT](https://img.shields.io/badge/-REACT-006600?style=for-the-badge&logo=react)
 
 
->### My main project in React this is Pokemon store:
->>https://github.com/Sergei2125/Chueshkov_React_Diplom
+### My main project in React this is Pokemon store:
+>https://github.com/Sergei2125/Chueshkov_React_Diplom
 
 
->### My portfolio [Sergei2125.github.io](http://Sergei2125.github.io)
+### My portfolio [Sergei2125.github.io](http://Sergei2125.github.io)
