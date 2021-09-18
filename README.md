@@ -7,9 +7,9 @@
 #### Languages and Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=)
-![CSS/SASS/SCSS](https://img.shields.io/badge/-css-purple?style=for-the-badge&logo=css)
+![CSS](https://img.shields.io/badge/-css/scss-purple?style=for-the-badge&logo=css)
 ![javaScript](https://img.shields.io/badge/-javaScript-990033?style=for-the-badge&logo=javaScript)
-![REACT/REDUX](https://img.shields.io/badge/-REACT-006600?style=for-the-badge&logo=react)
+![REACT](https://img.shields.io/badge/-REACT/REDUX-006600?style=for-the-badge&logo=react)
 
 ***
 
