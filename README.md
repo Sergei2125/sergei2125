@@ -8,7 +8,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-orange?&style=for-the-badge&logo=css3&logoColor=white)
-![SaSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+(https://img.shields.io/static/v1?label=<LABEL>&message=<SCSS>&color=<orange>)
 ![javaScript](https://img.shields.io/badge/-javaScript-990033?style=for-the-badge&logo=javaScript)
 ![REACT](https://img.shields.io/badge/-REACT-006600?style=for-the-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
