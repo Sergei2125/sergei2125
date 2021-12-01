@@ -24,3 +24,4 @@ https://github.com/Sergei2125/Chueshkov_React_Diplom
 #### My portfolio [Sergei2125.github.io](http://Sergei2125.github.io)
 
 ***
+https://img.shields.io/badge/-SCSS-orange
