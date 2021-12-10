@@ -12,7 +12,7 @@
 ![javaScript](https://img.shields.io/badge/-javaScript-990033?style=for-the-badge&logo=javaScript)
 ![REACT](https://img.shields.io/badge/-REACT-006600?style=for-the-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/Salesforce-E34F26?style=for-the-badge&logo=Salesforce&logoColor=white)
+![](https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=Salesforce&logoColor=white)
 
 ***
 
