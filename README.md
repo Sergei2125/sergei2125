@@ -2,7 +2,7 @@
     <img src="https://github.com/Sergei2125/sergei2125/blob/main/assets/hello.jpg" alt='hello' width="60%">
 </div>
 
-### I'm a beginner Frontend Developer
+### I'm Frontend Developer
 
 #### Languages and Tools:
 
